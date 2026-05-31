@@ -1,6 +1,13 @@
 # ☕ Java + DSA with Kunal Kushwaha
 
-Following the complete **[Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)** by Kunal Kushwaha. Each folder contains my practice code and assignments pushed after every lecture.
+> Following the complete **[Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)** by Kunal Kushwaha.
+> Each folder contains my practice code and assignments pushed after every lecture.
+
+---
+
+## 🚀 Goal
+
+Complete all **69 lectures**, solve every assignment, and be **interview-ready** for FAANG / product companies.
 
 ---
 
@@ -8,10 +15,11 @@ Following the complete **[Java + DSA + Interview Preparation Course](https://www
 
 ```
 java-dsa-kunal/
+│
 ├── 01-intro-to-programming/
 ├── 02-flowcharts-pseudocode/
 ├── 03-java-architecture/
-├── 04-first-java-program/       ← I/O, Datatypes, Type Casting
+├── 04-first-java-program/          ← I/O, Datatypes, Type Casting
 ├── 05-conditionals-and-loops/
 ├── 06-switch-statements/
 ├── 07-functions-methods/
@@ -43,16 +51,16 @@ java-dsa-kunal/
 ## 📚 Progress Tracker
 
 | # | Topic | Status | Notes |
-|---|-------|--------|-------|
-| 1 | Intro to DSA | ✅ | |
-| 2 | Flowcharts & Pseudocode | ✅ | |
-| 3 | Java Architecture & Installation | ✅ | |
-| 4 | First Java Program – I/O, Datatypes | ✅ | |
-| 5 | Conditionals and Loops | ⬜ | |
-| 6 | Switch Statements | ⬜ | |
-| 7 | Functions / Methods | ⬜ | |
-| 8 | Arrays & ArrayList | ⬜ | |
-| 9 | Linear Search | ⬜ | |
+|---|-------|:------:|-------|
+| 01 | Intro to DSA | ✅ | |
+| 02 | Flowcharts & Pseudocode | ✅ | |
+| 03 | Java Architecture & Installation | ✅ | |
+| 04 | First Java Program – I/O, Datatypes | ✅ | |
+| 05 | Conditionals and Loops | ✅ | |
+| 06 | Switch Statements | ✅ | |
+| 07 | Functions / Methods | ⬜ | |
+| 08 | Arrays & ArrayList | ⬜ | |
+| 09 | Linear Search | ⬜ | |
 | 10 | Binary Search | ⬜ | |
 | 11 | Sorting Algorithms | ⬜ | |
 | 12 | Strings & StringBuilder | ⬜ | |
@@ -69,29 +77,27 @@ java-dsa-kunal/
 | 23 | HashMap & HashTable | ⬜ | |
 | 24 | Advanced Algorithms | ⬜ | |
 
-> Update ✅ / 🔄 (in progress) / ⬜ (not started) as you go.
+> **Legend:** ✅ Done · 🔄 In progress · ⬜ Not started
 
 ---
 
 ## 🛠️ Setup
 
-- **Language:** Java
-- **IDE:** IntelliJ IDEA
-- **JDK:** Amazon Corretto 17+
-
----
-
-## 🎯 Goal
-
-Complete all 69 lectures, solve every assignment, and be interview-ready for FAANG/product companies.
+| | |
+|---|---|
+| **Language** | Java |
+| **IDE** | IntelliJ IDEA |
+| **JDK** | Amazon Corretto 17+ |
 
 ---
 
 ## 📌 Course Resources
 
-- 🎥 [YouTube Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- 📝 [Official Notes & Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
-- 👨‍💻 [Kunal's Channel](https://www.youtube.com/@KunalKushwaha)
+| Resource | Link |
+|----------|------|
+| 🎥 YouTube Playlist | [Java + DSA + Interview Prep](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) |
+| 📝 Notes & Assignments | [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) |
+| 👨‍💻 Kunal's Channel | [@KunalKushwaha](https://www.youtube.com/@KunalKushwaha) |
 
 ---
 
