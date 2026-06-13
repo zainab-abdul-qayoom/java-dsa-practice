@@ -58,9 +58,9 @@ java-dsa-kunal/
 | 04 | First Java Program – I/O, Datatypes | ✅ | |
 | 05 | Conditionals and Loops | ✅ | |
 | 06 | Switch Statements | ✅ | |
-| 07 | Functions / Methods | ⬜ | |
-| 08 | Arrays & ArrayList | ⬜ | |
-| 09 | Linear Search | ⬜ | |
+| 07 | Functions / Methods | ✅ | |
+| 08 | Arrays & ArrayList | ✅ | |
+| 09 | Linear Search | ✅ | |
 | 10 | Binary Search | ⬜ | |
 | 11 | Sorting Algorithms | ⬜ | |
 | 12 | Strings & StringBuilder | ⬜ | |
