@@ -61,11 +61,11 @@ java-dsa-kunal/
 | 07 | Functions / Methods | ✅ | |
 | 08 | Arrays & ArrayList | ✅ | |
 | 09 | Linear Search | ✅ | |
-| 10 | Binary Search | ⬜ | |
+| 10 | Binary Search | 🔄 | |
 | 11 | Sorting Algorithms | ⬜ | |
-| 12 | Strings & StringBuilder | ⬜ | |
+| 12 | Strings & StringBuilder | ✅ | |
 | 13 | Patterns | ⬜ | |
-| 14 | Recursion | ⬜ | |
+| 14 | Recursion | 🔄 | |
 | 15 | Time & Space Complexity | ⬜ | |
 | 16 | Bitwise Operators | ⬜ | |
 | 17 | Maths for DSA | ⬜ | |
